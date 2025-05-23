@@ -1,0 +1,33 @@
+{
+    "name": "playwright-framework-demo",
+    "version": "1.0.0",
+    "main": "index.js",
+    "type": "commonjs",
+    "scripts": {
+        "prettier:write": "npx prettier --write .",
+        "prettier:check": "npx prettier --check .",
+        "lint": "npx eslint",
+        "list:fix": "eslist --fix",
+        "start": "npx playwright test debug.spec.js",
+        "debug": "npx playwright test debug.spec.js --debug",
+        "report": "npx playwright show-report"
+    },
+    "keywords": [],
+    "author": "",
+    "license": "ISC",
+    "description": "",
+    "devDependencies": {
+        "@eslint/js": "^9.17.0",
+        "eslint": "^9.17.0",
+        "eslint-config-prettier": "^9.1.0",
+        "eslint-plugin-prettier": "^5.2.1",
+        "globals": "^15.11.0",
+        "prettier": "3.3.3",
+        "prettier-plugin-gherkin": "3.1.0"
+    },
+    "dependencies": {
+        "@faker-js/faker": "^9.0.3",
+        "@playwright/test": "^1.48.0",
+        "dotenv": "^16.4.7"
+    }
+}

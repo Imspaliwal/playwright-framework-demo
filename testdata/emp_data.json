@@ -1,0 +1,59 @@
+{
+  "headers": [
+    "",
+    "Id",
+    "First (& Middle) Name",
+    "Last Name",
+    "Job Title",
+    "Employment Status",
+    "Sub Unit",
+    "Supervisor",
+    "Actions"
+  ],
+  "rows": [
+    [
+      "",
+      "0034",
+      "Russel ",
+      "Hamilton",
+      "Software Engineer",
+      "Full-Time Permanent",
+      "Development",
+      "",
+      ""
+    ],
+    [
+      "",
+      "0087",
+      "Sania ",
+      "Shaheen",
+      "Customer Success Manager",
+      "Full-Time Permanent",
+      "Technical Support",
+      "",
+      ""
+    ],
+    [
+      "",
+      "0103",
+      "Sara ",
+      "Tencrady",
+      "Payroll Administrator",
+      "Full-Time Permanent",
+      "Human Resources",
+      "TesterEman1234 User",
+      ""
+    ],
+    [
+      "",
+      "emp001",
+      "TesterEman1234 Charan",
+      "User",
+      "HR Manager",
+      "Full-Time Permanent",
+      "Human Resources",
+      "",
+      ""
+    ]
+  ]
+}

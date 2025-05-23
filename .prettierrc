@@ -1,0 +1,19 @@
+{
+    "semi": true,
+    "tabWidth": 4,
+    "printWidth": 1000,
+    "overrides": [
+        {
+            "files": "*.js",
+            "options": {
+                "trailingComma": "none"
+            }
+        },
+        {
+            "files": "testdata/e2net/*",
+            "options": {
+                "semi": true
+            }
+        }
+    ]
+}
