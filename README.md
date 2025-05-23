@@ -17,7 +17,6 @@ Scenario 3: Search Employee Information By Employment Status
 
 Scenario 4: Create a Admin User on Admin Page
 
-Test File Name: orange-hrm.spec.js
 ```
 
 #### Scenarios API Testing
