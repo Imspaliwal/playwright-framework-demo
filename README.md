@@ -4,7 +4,7 @@ An example project demonstrating automation of playwright tests using page objec
 
 #### Application Under Test
 
-We are using [https://opensource-demo.orangehrmlive.com/](https://blockstream.info/block/000000000000000000076c036ff5119e5a5a74df77abf64203473364509f7732) for UI Tests as the Application Under Test.
+We are using https://blockstream.info/block/000000000000000000076c036ff5119e5a5a74df77abf64203473364509f7732 for UI Tests as the Application Under Test.
 
 #### Scenarios UI Testing
 
