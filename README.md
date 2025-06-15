@@ -4,29 +4,14 @@ An example project demonstrating automation of playwright tests using page objec
 
 #### Application Under Test
 
-We are using https://opensource-demo.orangehrmlive.com/ for UI Tests and "https://the-internet.herokuapp.com/digest_auth" for API Tests as the Application Under Test.
+We are using [https://opensource-demo.orangehrmlive.com/](https://blockstream.info/block/000000000000000000076c036ff5119e5a5a74df77abf64203473364509f7732) for UI Tests as the Application Under Test.
 
 #### Scenarios UI Testing
 
 ```bash
-Scenario 1: Login to Orange HRM
+Scenario 1: Validate the transaction headers
 
-Scenario 2: Add Employee on PIM page
-
-Scenario 3: Search Employee Information By Employment Status
-
-Scenario 4: Create a Admin User on Admin Page
-
-```
-
-#### Scenarios API Testing
-
-```bash
-Scenario 1: Authenticate the user using digest token
-
-Scenario 2: Donwload the File
-
-Scenario 3: Upload the File
+Scenario 2: Validate the total number of transactions having 1 input and 2 output transactions
 
 ```
 
