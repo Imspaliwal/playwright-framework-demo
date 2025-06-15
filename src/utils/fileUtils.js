@@ -11,6 +11,6 @@ export class FileUtils {
 
         const filePath = path.join(dir, fileName);
         fs.writeFileSync(filePath, JSON.stringify(dataToWrite, null, 2));
-        console.log(`Data saved to ${filePath}`);
+        console.log(`✅ Data saved to ${filePath}`);
     }
 }

@@ -1,0 +1,28 @@
+{
+  "email": "sumitpaliwal318@gmail.com",
+  "exchanges": [
+    "BSE",
+    "NSE"
+  ],
+  "products": [
+    "OCO",
+    "D",
+    "CO",
+    "I"
+  ],
+  "broker": "UPSTOX",
+  "user_id": "25CTCH",
+  "user_name": "SUMIT PALIWAL",
+  "order_types": [
+    "MARKET",
+    "LIMIT",
+    "SL",
+    "SL-M"
+  ],
+  "user_type": "individual",
+  "poa": false,
+  "ddpi": false,
+  "is_active": true,
+  "access_token": "eyJ0eXAiOiJKV1QiLCJrZXlfaWQiOiJza192MS4wIiwiYWxnIjoiSFMyNTYifQ.eyJzdWIiOiIyNUNUQ0giLCJqdGkiOiI2ODMzMTc5ZWViZTlhYjI2YWZiMmU2MzciLCJpc011bHRpQ2xpZW50IjpmYWxzZSwiaXNQbHVzUGxhbiI6ZmFsc2UsImlhdCI6MTc0ODE3ODg0NiwiaXNzIjoidWRhcGktZ2F0ZXdheS1zZXJ2aWNlIiwiZXhwIjoxNzQ4MjEwNDAwfQ.XNyuXDjLeYET4VVTASNUsmF1HVO3b7rj9VFydFoiQ_Y",
+  "extended_token": null
+}
